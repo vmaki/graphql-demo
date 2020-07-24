@@ -48,7 +48,7 @@ interface Character {
   friendsConnection(first: Int, after: ID): FriendsConnection!
 }
 
-# 时间单位
+# 性别单位
 enum GenderUnit {
   Sex
   Gender
